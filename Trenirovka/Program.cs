@@ -12,7 +12,7 @@ namespace ConsoleApp
         /// 
         static void Main(string[] args)
         {
-            //bool success = false;
+            bool success = false;
             //Console.WriteLine("Введите число от 1 до 10");
             //do
             //{                
